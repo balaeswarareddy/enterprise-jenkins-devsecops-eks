@@ -1,0 +1,10 @@
+target/
+*.log
+.env
+*.pem
+*.key
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!.gitkeep
